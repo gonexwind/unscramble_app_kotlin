@@ -81,7 +81,7 @@
             app:layout_constraintBottom_toTopOf="@+id/textView_unscrambled_word"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="3 of 10 words" />
+            tools:text="3 of 10 words" />GameFragment
 
         <TextView
             android:id="@+id/score"
